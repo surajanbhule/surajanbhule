@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj P. Anbhule 👋 ![Profile Views](https://komarev.com/ghpvc/?username=surajanbhule&color=blue)
+# Hi there, I'm Suraj P. Anbhule 👋 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-007396?style=flat&logo=data&logoColor=white)
