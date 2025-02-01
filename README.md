@@ -1,8 +1,25 @@
-![Suraj Anbhule](https://media.licdn.com/dms/image/v2/D5635AQEGISWY6_Jn7g/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1738310103028?e=1738998000&v=beta&t=mfjIK2lnC9aFyzGctwl4x0Z-NbHKOGtKwUEfP5W4LDA)
-
-# 🚀 Suraj Anbhule | Senior Software Engineer & Tech Enthusiast  
-
-![Profile Banner](https://your-banner-image-url.com)  
+<div align='center' style='display: flex; flex-direction: column; align-items: center; gap: 15px;'>
+  <h1>Suraj Anbhule</h1>
+  <h3>Senior Software Engineer & Tech Enthusiast</h3>
+  <p>
+    <img src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white' />
+    <img src='https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white' />
+    <img src='https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white' />
+    <img src='https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white' />
+    <img src='https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white' />
+    <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' />
+    <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' />
+    <img src='https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white' />
+    <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white' />
+    <img src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white' />
+    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' />
+    <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+    <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' />
+  <img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white' />
+  <img src='https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=architecture&logoColor=white' />
+  <img src='https://img.shields.io/badge/DSA-FF4500?style=for-the-badge&logo=algorithm&logoColor=white' />
+</p>
+</div>
 
 ## 👋 About Me  
 
@@ -14,7 +31,8 @@ Hi, I'm **Suraj Anbhule**, a **Senior Software Engineer & Technical Lead** passi
 
 ---
 
-## 🔥 Tech Stack  
+
+  
 
 ### 🏗️ **Core Expertise**  
 ✅ **🖥️ System Design & Scalability** – Architecting distributed, high-performance systems.  
@@ -27,12 +45,12 @@ Hi, I'm **Suraj Anbhule**, a **Senior Software Engineer & Technical Lead** passi
 | 📌 Category  | 🚀 Technologies  |
 |--------------|----------------|
 | **⚙️ Backend**  | Spring Boot (Java/Kotlin), NestJS (TypeScript) |
-| **🎨 Frontend** | Angular, TypeScript |
 | **📱 Mobile**   | Android (Jetpack Compose), iOS (SwiftUI), Kotlin Multiplatform |
 | **☁️ Cloud**    | Kubernetes, Docker, Firebase, AWS |
 | **🗄️ Databases** | PostgreSQL, Firestore, Room Database |
 | **🚀 DevOps**   | CI/CD, Infrastructure as Code (IaC), Monitoring Tools |
 | **🤖 AI & ML**  | AI-driven integrations, ML-powered features |
+| **🎨 Frontend** | Angular, TypeScript |
 
 ---
 
